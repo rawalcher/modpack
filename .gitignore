@@ -1,2 +1,13 @@
 mods/*.jar
 .packwiz/
+.fabric
+config
+cache
+libraries
+logs
+world
+versions
+*.jar
+*.json
+server.properties
+eula.txt

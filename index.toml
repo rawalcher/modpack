@@ -51,11 +51,6 @@ hash = "ba94fd9dd7d5148b511c24460a281143c3a5d02b859e66732f6121aee6625f0d"
 metafile = true
 
 [[files]]
-file = "mods/noisium.pw.toml"
-hash = "54dd8b88e92786d96c2487b7d6a473fbb7cd4576cec3a543788cfab327ffd623"
-metafile = true
-
-[[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "fcb2b48e962361d11130754a8e2d524a5e5fb4025e18f0135096a95aabc5cb24"
 metafile = true
