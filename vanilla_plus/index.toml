@@ -26,11 +26,6 @@ hash = "edcaf4c43fc88ea55fc8e54c5c86cbe0b6ee59f774957a98a457f4388fab9ced"
 metafile = true
 
 [[files]]
-file = "mods/axiom.pw.toml"
-hash = "0ff61ac90ad9352c520725426d7d57fc18843ce89d5870f56e81d1a6d27faf72"
-metafile = true
-
-[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "01013db5d43a8e041bfb70f5f88d4940cc4a6eefd620577df20954bd0ab6004d"
 metafile = true
@@ -302,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/storagedrawers.pw.toml"
-hash = "a5a45ae4c5a94fe422eeb6292789e18aa1236380e1d1e71d39d4c92048128c90"
+hash = "3dc86a72a834da08b603405e4c34bb5de7511904f5c9aee2786c47442943c94b"
 metafile = true
 
 [[files]]
