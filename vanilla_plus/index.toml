@@ -41,11 +41,6 @@ hash = "07bbb8cae107630f851ad38480d8c03815377c40fd9018d4ec50d772f1a6b900"
 metafile = true
 
 [[files]]
-file = "mods/betterf3.pw.toml"
-hash = "2d1c297c06a8781464a18d28d4a6d5c4807d216e42f6e315215d244ecdcb254b"
-metafile = true
-
-[[files]]
 file = "mods/bluemap.pw.toml"
 hash = "950139b43bd4634848c39bbe340b2b69a096ddf856080e75cd4ef96899d04a71"
 metafile = true
@@ -66,6 +61,11 @@ hash = "04be2a0471d1e25db46586b30de5268c50f6046d657bcdf96b4a3c88946a6d08"
 metafile = true
 
 [[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "95a409d7794c80fd1f5bab4ad082a8b165a678435c32948b46597c157834a6db"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "b1da0afe23273616b36e2c6d815819ea43ff3847db20639067cfa8e13e930753"
 metafile = true
@@ -78,11 +78,6 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "a86751e4931b83d8f3de8e84e38f2dc0aa316e40c99b9e9f03a9276659a474b6"
-metafile = true
-
-[[files]]
-file = "mods/controlify.pw.toml"
-hash = "1718aa5bd89ed69f2e8b570b3ee6392c0c3a0f7f8ed1fa6277356dc8c83eb6bc"
 metafile = true
 
 [[files]]
@@ -171,11 +166,6 @@ hash = "2c1fffee6dc05e029ef09ae987ea5fd8dfc6985ae36a40555856f947f106e080"
 metafile = true
 
 [[files]]
-file = "mods/iris.pw.toml"
-hash = "f9acd9fa6c8e3e28c54f196c3840ae9227265a966d511e21be5056951706ea00"
-metafile = true
-
-[[files]]
 file = "mods/libjf.pw.toml"
 hash = "143c142b7ff72c55425156edac3c7328b664d99dda2f1c6a1dee399d7f51a833"
 metafile = true
@@ -186,11 +176,6 @@ hash = "fdb180262edcdd6d7df6ff64556d09d38588c92ef0851479941b9d68a6f04eeb"
 metafile = true
 
 [[files]]
-file = "mods/litematica.pw.toml"
-hash = "7574aa27b75aa2fd4dd3fee056dbc95f733d6457408ab883e67ca8f0509ee67c"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "e10c94949bb58b8cfa9993a9f60c9283d5858d4d55fc450dbff2953644f45047"
 metafile = true
@@ -198,6 +183,11 @@ metafile = true
 [[files]]
 file = "mods/lmd.pw.toml"
 hash = "ebc0a6c9f39a73686aea16c4ea2a82fee370de3a6ed901a4348c05af40c3a5bd"
+metafile = true
+
+[[files]]
+file = "mods/ly-graves.pw.toml"
+hash = "bb4a840edb4892af320c2c354a67af7a421cf7eeb2f79c1a9167a9f279c4a6a2"
 metafile = true
 
 [[files]]
@@ -218,16 +208,6 @@ metafile = true
 [[files]]
 file = "mods/no-resource-pack-warnings.pw.toml"
 hash = "da9ac20bdc1caa50ebec291429638780924e8a5060ec39abe085c7e6182b3a6f"
-metafile = true
-
-[[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "ca512a7a5b1033f5f8823e015a95a6090907dd01738f9ca8fc4ef188d56c88d3"
-metafile = true
-
-[[files]]
-file = "mods/optigui.pw.toml"
-hash = "43aea184f4522b8219d178ba91e12874e3f2e22ac32fcd72a22519ddcdc671ce"
 metafile = true
 
 [[files]]
@@ -271,11 +251,6 @@ hash = "d2d74dfbf7b07c41caf6197d366972ec859bdb89e541df0fc4ae718979870689"
 metafile = true
 
 [[files]]
-file = "mods/scalablelux.pw.toml"
-hash = "fcb2b48e962361d11130754a8e2d524a5e5fb4025e18f0135096a95aabc5cb24"
-metafile = true
-
-[[files]]
 file = "mods/scribble.pw.toml"
 hash = "94bf00f87829da8fb7d9745a9f232d5ae9e53b8ca792729ef096cbdb0ee2e386"
 metafile = true
@@ -291,18 +266,13 @@ hash = "d9c2fb9e1bf67625d24cd6b6131962059b488384d0defdd256fd9bd06a7d36b4"
 metafile = true
 
 [[files]]
-file = "mods/sodium-extra.pw.toml"
-hash = "d3ce7c562cb2d457391f3ea7992f1018055544035097547d9bc2d30b7429c8ea"
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "bcaa1650a5c5cb79e1063ba3d5bd5bf0ab3d78b8e0199e217a42617f8225a8cc"
 metafile = true
 
 [[files]]
 file = "mods/sodium-shadowy-path-blocks.pw.toml"
 hash = "b91aa8ca577a8397296c43e06f54e8246cbdacd44afa08ab6188323c441ac359"
-metafile = true
-
-[[files]]
-file = "mods/sodium.pw.toml"
-hash = "1745f4ec1732e16be5f2c88780a66ca2a94c76c06c5e862db0b2c6cf63b16a47"
 metafile = true
 
 [[files]]
@@ -321,6 +291,16 @@ hash = "7e00a3009c931c51cc45b23f66c40a8da93ccd21854e854be96033eeec21d13f"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "8e009ac87710fbd8f5990285d36ab2b4755e932664ca1bcb9cdfac116d6e3b6d"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "a21afaf5777783244b77cd9b4333759bfa94ddd3ddc359f1a00355100430f177"
+metafile = true
+
+[[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "35c54f1caa454ed5fb5c3cc9926626b028967c25462eb58c9cbc80cf686eb78c"
 metafile = true
@@ -333,9 +313,4 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "ea0eb6ab539b43926503901694913866aa81a9a644cd3469080214a7ca785db2"
-metafile = true
-
-[[files]]
-file = "mods/zoomify.pw.toml"
-hash = "33a6300bdf82bd4297aeba3c660ebb0f0993121b97f0824a939468e4dcb81d15"
 metafile = true
