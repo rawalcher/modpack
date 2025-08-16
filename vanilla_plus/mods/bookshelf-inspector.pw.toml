@@ -1,0 +1,13 @@
+name = "Bookshelf Inspector"
+filename = "bookshelfinspector-fabric-2.0+1.21.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rOrXjyPb/versions/HnUH2VzI/bookshelfinspector-fabric-2.0%2B1.21.6.jar"
+hash-format = "sha512"
+hash = "500442f8ba015215baead351af585ecd97a4a1147b42182b2775de49aa0d5071dcf1d714e5ab496f90217fe78e94841b9ba1096f74a2003c86428f84a10ba1b4"
+
+[update]
+[update.modrinth]
+mod-id = "rOrXjyPb"
+version = "HnUH2VzI"

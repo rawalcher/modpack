@@ -1,4 +1,4 @@
-name = "Modpack"
+name = "Vanilla Plus"
 author = "Redacted"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,11 +6,8 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "20654a205d51ebb5e926ac0a58abda7b8d3d82356ea7c532eeea8ef3ae1b87d9"
+hash = "2dd88f41f05549bdf00d40b516aa7d25dea64d29eba9e17884aa754b77da9efd"
 
 [versions]
 fabric = "0.17.2"
 minecraft = "1.21.8"
-
-[options]
-acceptable-game-versions = ["1.21.8"]
