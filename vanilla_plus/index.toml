@@ -86,6 +86,11 @@ hash = "dd22684cedf424ab96aea1d9ccc537a5be11361a2519bdb495c64b66fb026df9"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "759030c892c5798d6e26d4d414532182959cb4c592ac62e1ca109394cc1bd9ed"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "4249e3227f1ab027e4e9ab8e41f07d282d6cecadc1d08fae3d062f7f9c45288f"
 metafile = true
