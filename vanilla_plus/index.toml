@@ -76,6 +76,11 @@ hash = "a216e613b5ada8a83972394c8b52331388f6d3e41187a04c3bced3f1752bea70"
 metafile = true
 
 [[files]]
+file = "mods/cobweb.pw.toml"
+hash = "eb7445ed6dea712a5f5edef11d53b723d4bc788130272e20116853adcd15bc33"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "a86751e4931b83d8f3de8e84e38f2dc0aa316e40c99b9e9f03a9276659a474b6"
 metafile = true
@@ -148,6 +153,11 @@ metafile = true
 [[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "35476f21ef1352e2f0d155e5810eb93d00c1c85bc455e5f1d92cb3d727a551f3"
+metafile = true
+
+[[files]]
+file = "mods/harvest-with-ease.pw.toml"
+hash = "7e4350f7d1811ad4567b1f500e036234d3878962e691fb4f59426f91f579c2bf"
 metafile = true
 
 [[files]]
@@ -288,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "9a0d53217201df1a02fd2c4db95b61136da9b94e734876fe63116f4811538ed5"
+metafile = true
+
+[[files]]
+file = "mods/storagedrawers.pw.toml"
+hash = "a5a45ae4c5a94fe422eeb6292789e18aa1236380e1d1e71d39d4c92048128c90"
 metafile = true
 
 [[files]]
