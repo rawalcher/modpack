@@ -256,6 +256,11 @@ hash = "88f9a71bf06f4959b220abab8542e4763747903e9e5ef150c38ae79c83870077"
 metafile = true
 
 [[files]]
+file = "mods/rei.pw.toml"
+hash = "c30abb741af8bcf3b29d000736aa2ae1730f0c551c17266e15b3c5c2183d0354"
+metafile = true
+
+[[files]]
 file = "mods/respackopts.pw.toml"
 hash = "d2d74dfbf7b07c41caf6197d366972ec859bdb89e541df0fc4ae718979870689"
 metafile = true
