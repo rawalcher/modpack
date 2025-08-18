@@ -201,6 +201,11 @@ hash = "ebc0a6c9f39a73686aea16c4ea2a82fee370de3a6ed901a4348c05af40c3a5bd"
 metafile = true
 
 [[files]]
+file = "mods/ly-graves.pw.toml"
+hash = "bb4a840edb4892af320c2c354a67af7a421cf7eeb2f79c1a9167a9f279c4a6a2"
+metafile = true
+
+[[files]]
 file = "mods/malilib.pw.toml"
 hash = "e6e5b83fe6fdc154dcf0e5cf62309ecae0b6a44e1d5a1388d2d5a2dd7a6c4790"
 metafile = true
