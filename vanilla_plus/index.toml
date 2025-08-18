@@ -71,6 +71,11 @@ hash = "a216e613b5ada8a83972394c8b52331388f6d3e41187a04c3bced3f1752bea70"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "2a9aaecf7b1bc8b061c07412f57d4fbf83a820ab3eb34af6527081955c8de97c"
+metafile = true
+
+[[files]]
 file = "mods/cobweb.pw.toml"
 hash = "eb7445ed6dea712a5f5edef11d53b723d4bc788130272e20116853adcd15bc33"
 metafile = true
@@ -271,6 +276,11 @@ hash = "bcaa1650a5c5cb79e1063ba3d5bd5bf0ab3d78b8e0199e217a42617f8225a8cc"
 metafile = true
 
 [[files]]
+file = "mods/silk.pw.toml"
+hash = "58b5c7dcc6c2f961f245530b789f1117dcf40ac3e5c4f19e113cbbeb00cf8fb9"
+metafile = true
+
+[[files]]
 file = "mods/sodium-shadowy-path-blocks.pw.toml"
 hash = "b91aa8ca577a8397296c43e06f54e8246cbdacd44afa08ab6188323c441ac359"
 metafile = true
@@ -313,6 +323,16 @@ metafile = true
 [[files]]
 file = "mods/text-formatting-everywhere.pw.toml"
 hash = "e54cc497cee0def6fcbe1fbf5aa63c1e94b5d5a2fdb9ab135f610dc7d80fa7f7"
+metafile = true
+
+[[files]]
+file = "mods/veinminer-enchantment.pw.toml"
+hash = "79b8d7410138bbabb5795fe29c18f82fd9238e5fe000dfa4a0fbf77cd24011ae"
+metafile = true
+
+[[files]]
+file = "mods/veinminer.pw.toml"
+hash = "90f3959e79a36252d355aac3f5a2dc66f40e0f177e9bdf2151d761b1a5c2d539"
 metafile = true
 
 [[files]]
