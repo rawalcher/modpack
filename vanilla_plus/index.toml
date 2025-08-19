@@ -181,6 +181,11 @@ hash = "2c1fffee6dc05e029ef09ae987ea5fd8dfc6985ae36a40555856f947f106e080"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "6c25890be6c8210af61c260972b632ed38d17e6d4cfaf50bfdf1009c6013388f"
+metafile = true
+
+[[files]]
 file = "mods/libjf.pw.toml"
 hash = "143c142b7ff72c55425156edac3c7328b664d99dda2f1c6a1dee399d7f51a833"
 metafile = true
