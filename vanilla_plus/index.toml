@@ -51,6 +51,11 @@ hash = "6dee7917c9156b4281bec000688abfa299a11e118fba9817966832e02f148d68"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "ea61c804560707997c5fef3f644f75903cebf272ac5a8a8a9b8761b8364e82fe"
+metafile = true
+
+[[files]]
 file = "mods/cherished-worlds.pw.toml"
 hash = "04be2a0471d1e25db46586b30de5268c50f6046d657bcdf96b4a3c88946a6d08"
 metafile = true
@@ -338,6 +343,11 @@ metafile = true
 [[files]]
 file = "mods/text-formatting-everywhere.pw.toml"
 hash = "e54cc497cee0def6fcbe1fbf5aa63c1e94b5d5a2fdb9ab135f610dc7d80fa7f7"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "dacdbbcdf09323f1ce3646dcddb4c10d791b0306aa0cedf3c4c97d9f5136d06e"
 metafile = true
 
 [[files]]
