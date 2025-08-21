@@ -1,0 +1,13 @@
+name = "Forgiving Void"
+filename = "forgivingvoid-fabric-1.21.8-21.8.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/1vkzEZjE/versions/mZmpye39/forgivingvoid-fabric-1.21.8-21.8.1.jar"
+hash-format = "sha512"
+hash = "d197005c28abfbe70eb7702d70c2852bce9384f249e274c6d2f71aeb4d766826143c32157ec99acbf1cd81e4c971425eb79ae13ec6d26855ed7bbb9e061693f9"
+
+[update]
+[update.modrinth]
+mod-id = "1vkzEZjE"
+version = "mZmpye39"
