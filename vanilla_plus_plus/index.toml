@@ -1,0 +1,171 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/almanac.pw.toml"
+hash = "49a33ac37445e3c08eb1a958b4f81f0c9ce356a8c08ace17e5df98e18558b4b1"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "ddc96b08f1a32a08edd9b8e34257b9a37ea9b3836ae4371e26f54c4ade4fe3f1"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "1502d3ac2c2ce4d3dc4c2db6ca6e95fb2a5d4a279e6e1413f6c427be222887a0"
+metafile = true
+
+[[files]]
+file = "mods/bluemap.pw.toml"
+hash = "24737d4ec343e590df0fb597f52bd792557300b659b828492bfd51d63c1fe52d"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "4ee1808a7fb319d469dece5752cedb05dacb9afbe48021fa664f54b8c83fdc45"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "64badefe03082699f587274a31d1f0793583a4d88aac8ea2226162f80783fb52"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "717d8ac591dba59be4767a179e1359747561e54ccfcac42161fd6bf54339a78b"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "b98e0aca52ce8d08ee8df7177886589511b8bca779af078a6ff4837e814bccf4"
+metafile = true
+
+[[files]]
+file = "mods/cobweb.pw.toml"
+hash = "78c5c7a98ee86b97042c6ccc82d923a0f7d068da094ef3e687666cffc7415a57"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "b152c75412428e5f53667cb0836fa1323ca93cbd925e456239710a2e261d9963"
+metafile = true
+
+[[files]]
+file = "mods/crops-love-rain.pw.toml"
+hash = "f80771c373ac5f054b7c7e198c680cd7fff0fcc40d5753517b4b0acefa1c5729"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "a43e3d76464a16015d62ba08d51da734f92377f0889c3984656d6d5739d284b2"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "e9c66a831545c31e1bd5f898974222a7e04e548018dda0a4db0da7c6997c8017"
+metafile = true
+
+[[files]]
+file = "mods/easy-shulker-boxes.pw.toml"
+hash = "0e3945d880e497398559c2a6419f83d2b76cd799b70db993089f27c32408b3a0"
+metafile = true
+
+[[files]]
+file = "mods/enchantments-expansion.pw.toml"
+hash = "254f52688e43f7774c2eb2fa14ab2063eb7dd500b33a17257ee1be85212cf5f8"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "cbda4f1881cfb9f054395a3db225df4202d1f2e7bd0ed27d803b837fcf728621"
+metafile = true
+
+[[files]]
+file = "mods/fast-item-frames.pw.toml"
+hash = "e19aa2d83e60f302ad9145e4e1246916d2036541def8b7076024b9073fcd7587"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "d74f72f3bf13c4ef7d60b6e2defecd3c7af77ed9be7764cf1ed10ea1fd707a1f"
+metafile = true
+
+[[files]]
+file = "mods/forgecraft.pw.toml"
+hash = "378f047c5724e193f8a6988cb43a5ebecf405027abfbe91d91d77d82e94a7bd3"
+metafile = true
+
+[[files]]
+file = "mods/harvest-with-ease.pw.toml"
+hash = "bf50e23afa9be355eb5d95a1d32fe196411f77632405ecf8e4f70e9a1266408e"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "a077e0482f50add9ef20e962a7939aa678583cb3f354fb6b6124219badafdd4d"
+metafile = true
+
+[[files]]
+file = "mods/jamlib.pw.toml"
+hash = "bdca3c9a098de3c08f996b214cf10ece27351f5f7871c30ff826a2f404daba33"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+hash = "ffd2bde70110ba1d26bf841930556307a5bdfa3159b194e6e30ac5192be61754"
+metafile = true
+
+[[files]]
+file = "mods/mob-captains.pw.toml"
+hash = "2f4240383bbdbdfd3e8b98b6b361642472972b66242ad91aa6be6c8150893f38"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "204a4b3b041fad4bb4dc543c74d540fcf239710494d2130cebe700bf1d8a7805"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "bedbd2675abf6bdb06c80570ba63d88e08caf7bb431d01e446d8770a5c62a9fb"
+metafile = true
+
+[[files]]
+file = "mods/quickleafdecay.pw.toml"
+hash = "b2e14a2bf2a543867515a678c3389834afada5f372a35e12df12c35fbb15b174"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "6cc155f0633b2187f5bc71357ab1d82c1d49f9592bcbd73191ec1001c98c342b"
+metafile = true
+
+[[files]]
+file = "mods/silk.pw.toml"
+hash = "493a76add332abb0dfa23004300ea2ae77a8448960f603519c1db5ab4d769413"
+metafile = true
+
+[[files]]
+file = "mods/sort-it-out.pw.toml"
+hash = "cb59f007a4f09b171fc41683791345972ceefe312bbf0aef4632eccdc339df2f"
+metafile = true
+
+[[files]]
+file = "mods/spellbound-weapons.pw.toml"
+hash = "68c4bd590fb478cc5f9602d2d5bbb861aa484becc3a419ac2ae6b849908b3491"
+metafile = true
+
+[[files]]
+file = "mods/veinminer-enchantment.pw.toml"
+hash = "79b8d7410138bbabb5795fe29c18f82fd9238e5fe000dfa4a0fbf77cd24011ae"
+metafile = true
+
+[[files]]
+file = "mods/veinminer.pw.toml"
+hash = "5cb9a93032a75644cdf442b05a29e0616c76df503ee6b3dd3ab367ad1a04ff60"
+metafile = true
+
+[[files]]
+file = "mods/warpstones.pw.toml"
+hash = "81b107b5cdf31bceec42ad085966ee6dac3807473570665207598a0784ef5bd9"
+metafile = true

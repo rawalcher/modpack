@@ -1,0 +1,13 @@
+name = "Warpstones"
+filename = "warpstones-v1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/te8VAimw/versions/NuQzvjQA/warpstones-v1.1.0.jar"
+hash-format = "sha512"
+hash = "22e73485e630d443aa5bf38583439608c3221d9e6b149cae15ab85f090c3c4ef1eabc696ae1f3eefb8e1bbcb78c693bd892b247c488f2f2533f4571d1c60e58f"
+
+[update]
+[update.modrinth]
+mod-id = "te8VAimw"
+version = "NuQzvjQA"

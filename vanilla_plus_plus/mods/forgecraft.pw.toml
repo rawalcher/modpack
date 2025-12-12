@@ -1,0 +1,13 @@
+name = "ForgeCraft - Equipment Extension"
+filename = "forgecraft-V1.7.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/f1iHD5Fd/versions/x8hPbR87/forgecraft-V1.7.4.jar"
+hash-format = "sha512"
+hash = "62c16ae0ca3c6b056519546783e104265f109402477f72ec6f6ed73a31863b525a56f223a8a6a788997d5f3dc89db6fa202428a9bfd7866e44f7b21c520b7e1a"
+
+[update]
+[update.modrinth]
+mod-id = "f1iHD5Fd"
+version = "x8hPbR87"
