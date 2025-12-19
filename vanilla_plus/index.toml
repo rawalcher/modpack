@@ -62,17 +62,12 @@ metafile = true
 
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
-hash = "6447387ec4e653d9e7dea1bea1c8ae43ee30bd097f86bbfa18237f2ff876dc90"
+hash = "6083db761c82eece49adba0b0cee0b37068422e2eb170b7039ebae65972d03e1"
 metafile = true
 
 [[files]]
 file = "mods/cherished-worlds.pw.toml"
 hash = "9d07c9ba99c427bc750413e68552dcb497c6aec4f2483bf4a46bd93a19e886a3"
-metafile = true
-
-[[files]]
-file = "mods/chunk-loaders.pw.toml"
-hash = "95a409d7794c80fd1f5bab4ad082a8b165a678435c32948b46597c157834a6db"
 metafile = true
 
 [[files]]
@@ -203,11 +198,6 @@ metafile = true
 [[files]]
 file = "mods/horse-expert.pw.toml"
 hash = "5420daa16e2dcb0c234c35aeeca15e20ac4f628a316829774c7a02166a33f412"
-metafile = true
-
-[[files]]
-file = "mods/horseman.pw.toml"
-hash = "92c9fce6cc3720eda3a8cb50a5e8e2bf78a9c7e284bb6514ffba1f14fb745781"
 metafile = true
 
 [[files]]
@@ -361,6 +351,11 @@ hash = "2d27a6e7c7e28a33b4e3d85106f80fd6629f060ec31a8be525f1c2ac9f769cf1"
 metafile = true
 
 [[files]]
+file = "mods/sodium.pw.toml"
+hash = "279ea1bb4b776be9176fe34416e2132e37abfce4483def54177091cc0f2faade"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "2520b331c2b0eb582b448c4ebf1a73d66d42184acc2d74912baef4140e05ee9b"
 metafile = true
@@ -377,22 +372,12 @@ metafile = true
 
 [[files]]
 file = "mods/storagedrawers.pw.toml"
-hash = "3dc86a72a834da08b603405e4c34bb5de7511904f5c9aee2786c47442943c94b"
+hash = "eccf47ca447c4970ae7322612b3beab1138b4b510a365dd7f33373f4d33e03a0"
 metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
 hash = "2f3972058c89914c3bee061f436d199fbe938474bd2618e4b0f8082eb2d635d8"
-metafile = true
-
-[[files]]
-file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "8e009ac87710fbd8f5990285d36ab2b4755e932664ca1bcb9cdfac116d6e3b6d"
-metafile = true
-
-[[files]]
-file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "45ebe619a13ac662be0eb85f6cfb44ddcec5cabb91eebe0339ee0a9bb8e0d542"
 metafile = true
 
 [[files]]
