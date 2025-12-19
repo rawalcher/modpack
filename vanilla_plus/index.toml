@@ -221,6 +221,11 @@ hash = "6961b9b320387c2449f2ac9a297e2843de7fde9a8200bf57c45af32f5b65ce6b"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "8f6e0157b42ba668c0ba9aa7eff94b3b91a8f58bcd357e574d70a7b160d4337c"
+metafile = true
+
+[[files]]
 file = "mods/libjf.pw.toml"
 hash = "8c75e0407d200803b12333bc2dc59f25b3e0060aa3f07ccfa59ebaa194acd560"
 metafile = true
