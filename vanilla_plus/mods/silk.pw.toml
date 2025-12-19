@@ -1,13 +1,13 @@
 name = "Silk"
-filename = "silk-all-1.11.2.jar"
+filename = "silk-all-1.11.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/aTaCgKLW/versions/6ppqw7Dx/silk-all-1.11.2.jar"
+url = "https://cdn.modrinth.com/data/aTaCgKLW/versions/2OisNxPN/silk-all-1.11.4.jar"
 hash-format = "sha512"
-hash = "9e06f7af972aa06e001bc87b137aaf24ac4b18db382c8b13de3c90514d3097fb44ec678751c8c3d9ddb2f9fe0b1c2d80c0a9f0b6e14514f30a4517d8f100c591"
+hash = "6f2e5e929909f779f667fedf90af66ac65e1d754aec2498d2ecb69d7080326699139c452ba43021c6a32bde66d8d61abeb8a7974b1719e5915d3a8c735b305d6"
 
 [update]
 [update.modrinth]
 mod-id = "aTaCgKLW"
-version = "6ppqw7Dx"
+version = "2OisNxPN"

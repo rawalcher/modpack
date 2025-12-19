@@ -1,13 +1,13 @@
 name = "Graves"
-filename = "ly-graves-v2.4.2.jar"
+filename = "ly-graves-v3.0.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/kieAM9Us/versions/LMZy9k55/ly-graves-v2.4.2.jar"
+url = "https://cdn.modrinth.com/data/kieAM9Us/versions/bAy9LDJP/ly-graves-v3.0.0.jar"
 hash-format = "sha512"
-hash = "35f2ed8468bdabcaa12400d7eed58fc3154452fdf544bc64c8f9e1ad0bbeec57c30dbe2e6abd5889a7c5006449de17ca3219c8649103834b41975d40e25cde83"
+hash = "81d711c88b5df350ba69534c5e0123009b8862bda8562f481fef00cf36100786df0f0029fa829d1ec1c703cae5d1ebe316506671e1039663b42d85867c16d072"
 
 [update]
 [update.modrinth]
 mod-id = "kieAM9Us"
-version = "LMZy9k55"
+version = "bAy9LDJP"
