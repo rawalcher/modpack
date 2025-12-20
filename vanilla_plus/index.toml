@@ -306,6 +306,11 @@ hash = "bedbd2675abf6bdb06c80570ba63d88e08caf7bb431d01e446d8770a5c62a9fb"
 metafile = true
 
 [[files]]
+file = "mods/quickleafdecay.pw.toml"
+hash = "53cf4b0c5b92e2cab1f9d30dedc4bb764f074ee7151be91b8f23cd763aa65cd9"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "ad2c2880cd91b5d927f3bfdba657189997cdd6dd30f46ee0d969a68de2bb2ad8"
 metafile = true
